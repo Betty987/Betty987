@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Betty</h1>
 <h3 align="center">A tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=betty987&label=Profile%20views&color=0e75b6&style=flat" alt="betty987" /> </p>
+
 
 - 👩‍💻 All of my projects are available at [https://github.com/Betty987](https://github.com/Betty987)
 
