@@ -3,7 +3,7 @@
 
 
 
-- 👩‍💻 All of my projects are available at [https://github.com/Betty987](https://github.com/Betty987)
+
 
 
 <h3 align="left">Connect with me:</h3>
