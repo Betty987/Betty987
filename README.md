@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betty</h1>
-<h3 align="center">A tech enthusiast</h3>
+<h3 align="center">I am an aspiring software engineer with interests in Mobile Development and Machine Learning.</h3>
 
 
 
