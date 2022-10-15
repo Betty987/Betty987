@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Betty</h1>
 <h5 align="center">I am an aspiring Machine Learning Engineer.</h5>
 
-
-
-
-
+<ul>I am interested in all things tech.</ul>
+<ul>I am interested in all things tech.</ul>
+<ul>I am interested in all things tech.</ul>
+<ul>I am interested in all things tech.</ul>
 
 
 <h3 align="left">Connect with me:</h3>
