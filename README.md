@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola🙋‍♀️, I'm Betty</h1>
+<h1 align="center">🙋‍♀️, I'm Betty</h1>
 
 
 
