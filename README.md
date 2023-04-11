@@ -3,7 +3,6 @@
 
 - 🔆 I am interested in Machine Learning,Computer Vision and NLP.
 
-<img align="right" alt="Coding" width="700" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
 
