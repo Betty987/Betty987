@@ -3,7 +3,7 @@
 
 
 
-<img align="right" alt="Coding" width="800" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔆 I am interested in Machine Learning,Computer Vision and NLP.
 
