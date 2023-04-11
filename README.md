@@ -3,10 +3,10 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 🔆 I am interested in Machine Learning,Computer Vision and NLP.
-- 📫 How to reach me **betty.meg356@gmail.com**
+
 
 
 
