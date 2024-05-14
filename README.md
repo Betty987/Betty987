@@ -1,7 +1,9 @@
 
-<h1 align="center">🙋‍♀️, I'm Betty</h1>
+<h1 align="center">🙋‍♀️, I'm Bethelehem</h1>
 
-- 🔆 I am interested in Machine Learning,Computer Vision and NLP.
+- 🔆 I am interested in Machine Learning and .
+ - 🔆 Incoming Research Intern at MIT and MPI and Previous Research Intern at UCLA.
+  
 
 
 
