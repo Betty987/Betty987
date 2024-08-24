@@ -12,3 +12,10 @@ I am a CS student with a strong interest in Deep Graph Learning and Computer Vis
 <h3 align="left">Contact Me</h3>
 Feel free to reach out to me via <a href="mailto:betty.meg356@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/bethlehem-t-2017b9235/" target="_blank" rel="noreferrer">Linkedin</a>.
 
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Betty987&theme=highcontrast)](https://git.io/streak-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Betty987&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Betty987&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
