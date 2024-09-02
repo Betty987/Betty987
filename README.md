@@ -2,7 +2,7 @@
 <h1 align="center">Hi there!🙋‍♀️ I'm Bethlehem</h1>
 
 <h3 align="left">About Me</h3>
-I am a CS student with a strong interest in Deep Graph Learning and Computer Vision. My research focuses on exploring the exciting field of graph neural networks and their application in brain connectivity mapping. I am fascinated by the potential of these networks to uncover intricate patterns and relationships in complex neural data.
+I am a researcher with a strong interest in Deep Graph Learning and Computer Vision. My research focuses on exploring the exciting field of graph neural networks and their application in brain connectivity mapping. I am fascinated by the potential of these networks to uncover intricate patterns and relationships in complex neural data.
 
  
 
