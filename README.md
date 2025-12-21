@@ -34,5 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Betty987&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
-### Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Betty987)](https://git.io/streak-stats)
