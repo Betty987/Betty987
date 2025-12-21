@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bethlehem Tassew
+# Hi there! I'm Bethlehem Tassew
 <h3 align="center">Machine Learning Engineer | Brain-Inspired AI Researcher | Computer Vision & Multimodal Systems</h3>
 <p align="center">
   Passionate about building efficient AI systems that bridge neuroscience, vision, and language.
@@ -31,13 +31,10 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Betty987&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Betty987&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
 ### Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Betty987&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Betty987&theme=highcontrast&hide_border=true" alt="GitHub Streak" /></a>
 </p>
