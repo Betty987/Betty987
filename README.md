@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Betty987&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Betty987&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+
 </p>
 
 <p align="center">
