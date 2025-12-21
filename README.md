@@ -1,5 +1,5 @@
 # Hi there! I'm Bethlehem Tassew
-<h3 align="center">Machine Learning Engineer | Brain-Inspired AI Researcher | Computer Vision & Multimodal Systems</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 <p align="center">
   Passionate about building efficient AI systems that bridge neuroscience, vision, and language.
 </p>
