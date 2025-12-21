@@ -1,24 +1,20 @@
 # Hi there! 👋 I'm Bethlehem Tassew
-
 <h3 align="center">Machine Learning Engineer | Brain-Inspired AI Researcher | Computer Vision & Multimodal Systems</h3>
-
 <p align="center">
   Passionate about building efficient AI systems that bridge neuroscience, vision, and language.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/bethlehem-t-2017b9235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Betty987"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://hi-lovat.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
 
 ## About Me
-
 - 👩🏽‍💻 Currently @ **iCog Labs** – Developing the **Predictive Coding Transformer**, a neurobiologically inspired architecture that replaces backpropagation with local prediction-error minimization.
 - 🌍 Research experience at **Max Planck Institute for Biological Cybernetics**, **MIT**, **UCLA**, and **Northwestern Polytechnical University (BASIRA Lab)**.
 - 🎯 Research interests: Multimodal AI, Geometric Deep Learning, Efficient Vision & Language Models, Brain-inspired learning, Responsible AI for low-resource environments.
 
 ## Languages & Tools
-
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
@@ -34,13 +30,14 @@
 </p>
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Betty987&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" alt="GitHub Stats" />
-
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Betty987&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
 </p>
 
+### Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Betty987&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</p>
