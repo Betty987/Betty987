@@ -11,10 +11,10 @@
 
 ## About Me
 - 👩🏽‍💻 Currently @ **iCog Labs** – Developing the **Predictive Coding Transformer**, a neurobiologically inspired architecture that replaces backpropagation with local prediction-error minimization.
-- 🌍 Research experience at **Max Planck Institute for Biological Cybernetics**, **MIT**, **UCLA**, and **Northwestern Polytechnical University (BASIRA Lab)**.
+- 🌍 Research experience at **MPI**, **MIT**, **UCLA**, and **NPU**.
 - 🎯 Research interests: Multimodal AI, Geometric Deep Learning, Efficient Vision & Language Models, Brain-inspired learning, Responsible AI for low-resource environments.
 
-## Languages & Tools
+## Tech Stack
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
@@ -30,8 +30,4 @@
 </p>
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Betty987&layout=compact&theme=highcontrast&hide_border=true" alt="Top Languages" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Betty987)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Betty987&theme=dark)](https://git.io/streak-stats)
