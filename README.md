@@ -1,7 +1,7 @@
 # Hi there! I'm Bethlehem Tassew
 <h3 align="center">Machine Learning Engineer</h3>
 <p align="center">
-  Passionate about building efficient AI systems that bridge neuroscience, vision, and language.
+  Building efficient AI systems that bridge neuroscience, vision, and language.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/bethlehem-t-2017b9235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
