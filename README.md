@@ -10,8 +10,8 @@
 </p>
 
 ## About Me
-- 👩🏽‍💻 Currently @ **iCog Labs** – Developing the **Predictive Coding Transformer**, a neurobiologically inspired architecture that replaces backpropagation with local prediction-error minimization.
-- 🌍 Research experience at **MPI**, **MIT**, **UCLA**, and **NPU**.
+- 👩🏽‍💻 Currently a Masters in Data Science student.
+- 🌍 Previous Research experience at **iCog-Labs**,**MPI**, **MIT**, **UCLA**, and **NPU**.
 - 🔍 Research interests: Multimodal AI, Geometric Deep Learning, Efficient Vision & Language Models, Brain-inspired learning, Responsible AI for low-resource environments.
 
 ## Tech Stack
