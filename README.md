@@ -1,33 +1,53 @@
-# Hi there! I'm Bethlehem Tassew
-<h3 align="center">Machine Learning Engineer</h3>
+<h1 align="center">Hi, I'm Bethlehem Tassew 👋</h1>
+<h3 align="center">Full-Stack Software Engineer · AI/ML</h3>
 <p align="center">
-  Building efficient AI systems that bridge neuroscience, vision, and language.
+  I build web apps end to end, from typed APIs and Postgres schemas to React interfaces, and I add AI where it actually helps the product.
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bethlehem-t-2017b9235/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Betty987"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://hi-lovat.vercel.app/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://hi-lovat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:bmt9@fordham.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## About Me
-- 👩🏽‍💻 Currently a Masters in Data Science student.
-- 🌍 Previous Research experience at **iCog-Labs**,**MPI**, **MIT**, **UCLA**, and **NPU**.
-- 🔍 Research interests: Multimodal AI, Geometric Deep Learning, Efficient Vision & Language Models, Brain-inspired learning, Responsible AI for low-resource environments.
+---
 
-## Tech Stack
+## 🚀 What I do
+
+- 🧱 **Full-stack web:** Next.js, React, and TypeScript on the front end; Node.js, REST APIs, and Supabase/Postgres on the back end.
+- 🤖 **AI-powered products:** LLM agents, RAG, and ML models wired into real apps, not left in notebooks.
+- 🧠 Background as an **ML Engineer at iCog-Labs**, with research at **MIT**, **Max Planck Institute**, and **UCLA × SAP** (ACM SAC '24).
+- 🎓 M.S. Data Science @ **Fordham University** · B.S. Computer Science.
+
+
+## 🧰 Tech Stack
+
+**Frontend**
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="50" height="50"/></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,figma" />
 </p>
 
-## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Betty987&theme=dark)](https://git.io/streak-stats)
+**Backend & Data**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,sqlite,python,java" />
+</p>
+
+**AI / ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv" />
+</p>
+
+**Tools & Deployment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
+
+## 🌱 Right now
+
+- Building new full-stack projects with AI features. Follow along!
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Betty987&theme=dark&hide_border=true" />
+</p>
