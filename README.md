@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bethlehem Tassew 👋</h1>
+<h1 align="center">Hi, I'm Bethlehem Tassew </h1>
 <h3 align="center">Full-Stack Software Engineer · AI/ML</h3>
 <p align="center">
  I build full-stack and AI-powered products.
